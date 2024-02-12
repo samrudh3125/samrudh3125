@@ -10,16 +10,23 @@ I'm Samrudh Shetty from India trying to explore the development and web3 world. 
 
 # TECH STACK
 ![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/61b1a163-6bea-48b6-95ae-cd34fe82a68e)
-![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/c2cfbfa3-9887-4089-b403-06466827bb0c)
+![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&labelColor=1572B6)
+![Static Badge](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind%20css)
 ![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/5960e2c6-bdc7-4c16-bf43-73ef0a59123e)
 ![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/cff4f04d-c2b4-4f10-9a9d-7f6ee0999bd3)
-![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/0b726c52-19ae-4142-b384-b5f1c75965d9)
-![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/2b41eeb7-3550-438a-aba4-753ef9ee6d51)
-![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/b810cd0e-a23d-47bf-afb7-1912fc309aed)<br>
+![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black)
+![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/2b41eeb7-3550-438a-aba4-753ef9ee6d51)<br>
+![Static Badge](https://img.shields.io/badge/NEXT-black?style=for-the-badge&logo=next.js&labelColor=black)
 ![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/7a3ac8ad-f216-4b9f-b887-d632aea2e703)
 ![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/07a119d4-59e3-49f1-a71c-634cdf557efd)
-![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/25e4c2d9-7509-49c8-91a2-b96b0c37d687)
+![Static Badge](https://img.shields.io/badge/PostgressSQL-blue?style=for-the-badge&logo=postgresql&labelColor=black)
 ![image](https://github.com/samrudh3125/samrudh3125/assets/69446481/605653a9-e516-499b-a257-a35bf7c3bb9b)
+![Static Badge](https://img.shields.io/badge/Bun-Black?style=for-the-badge&logo=bun&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black)
+![Static Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&labelColor=black)<br>
+![Static Badge](https://img.shields.io/badge/solidity-red?style=for-the-badge&logo=solidity&labelColor=black)
 
 
+# Social Media
 
