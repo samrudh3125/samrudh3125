@@ -29,4 +29,7 @@ I'm Samrudh Shetty from India trying to explore the development and web3 world. 
 
 
 # Social Media
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSamrudh3125%3Ft%3Djqqo9VOLq1r3iLp00F1iuQ%26s%3D09)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsamrudh-shetty-120188288%2F%3ForiginalSubdomain%3Din)
+![Static Badge](https://img.shields.io/badge/Instagram-black?logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fsamrudh_s25%2F)
 
